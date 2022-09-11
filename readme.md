@@ -8,6 +8,9 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
 
-## First setup
-
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+## LOCAL DEVELOPMENT SETUP
+1. Make sure you have [Docker](https://docs.docker.com/get-docker/) and [Docker-Compose](https://docs.docker.com/get-docker/) installed.
+2. Open the terminal.
+3. Execute the command: `git clone https://github.com/ObelusFamily/Anythink-Market-u2waa.git`
+4. Inside the root directory run the command:  `docker-compose up`
+5. Now your development environment is ready and you can start contributing!.
